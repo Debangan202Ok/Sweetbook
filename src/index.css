@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.in-Out:focus {
+    outline: none;
+}
+.animite:active {
+    background-color: #e2e2e2;
+    transform: translate(0px,2px);
+}
+.animite2:active {
+    transform: translate(-2px, 0px);
+    background-color: #e2e2e2;
+}
+.animite3:active {
+    transform: translate(2px, 0px);
+    background-color: #e2e2e2;
+}

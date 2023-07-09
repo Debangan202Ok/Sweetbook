@@ -1,0 +1,44 @@
+{
+    "Admin":{  
+        "name": "Debangan",
+        "title": "paul chowdhury",
+        "img":"../../public/images/mypic.jpeg"
+    },
+    "postImg":{
+        "user": "Debangan",
+        "postTitle": "Unimaginable things can do with the power of javascript",
+        "postTitle2":"click on the image to show more",
+        "postDate": "Mar 12, 1947",
+        "img": "../../public/images/oldpape.png",
+        "type": "Photo"
+    },
+    "postImg2":{
+        "user": "Debangan",
+        "postTitle": "A day before my exam. i was thought to make a website regarding my study",
+        "postTitle2":"click on the image to show more",
+        "postDate": "May 7, 2023",
+        "img": "../../public/images/datastruc.png",
+        "type": "Photo"
+    },
+    "postImg3":{
+        "user": "Debangan",
+        "postTitle": "I made a game using javascript. although i learned about this game from a course on udemy",
+        "postTitle2":"click on the image to show more",
+        "postDate": "May 29, 2023",
+        "img": "../../public/images/guessnum.png",
+        "type": "Photo"
+    },
+    "postImg4": {
+        "user": "Debangan",
+        "postTitle": "I made a text utlis app using javascript. although this idea came from codewithharry",
+        "postTitle2":"click on the image to show more",
+        "postDate": "May 24, 2023",
+        "img": "../../public/images/textanalyize.png",
+        "type": "Photo"
+    },
+    "comments": {
+        "user": "Debangan",
+        "comment": "Your work is not sufficient at this time. You need to improve your work."
+    }
+}
+
